@@ -14,4 +14,9 @@ In Figure 2, we can see that we can delete the desired task.<br><br>
 
 <img width="869" alt="4" src="https://github.com/user-attachments/assets/1e237382-2ca8-4c4a-8174-0992b6d19ab8">
 
-Figure 4, we can add and delete all desired tasks.
+Figure 4, we can add and delete all desired tasks.<br><br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">  &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" alt="Bootstrap"> &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"> &nbsp; &nbsp;
