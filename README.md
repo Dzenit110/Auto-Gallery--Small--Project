@@ -16,7 +16,7 @@ In Figure 2, we can see that we can delete the desired task.<br><br>
 
 Figure 4, we can add and delete all desired tasks.<br><br>
 
-🧰 Languages & Tools <br><br>
+## 🧰 Languages & Tools <br><br>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"> &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">  &nbsp; &nbsp;
